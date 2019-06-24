@@ -1,28 +1,28 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: ChangeLog of Beagle #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Beagle (BayEsian Analysis of GaLaxy sEds) is a state-of-the-art tool to perform statistical analyses of galaxy observations"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
-heading: Updates # (optional)
+heading: ChangeLog # (optional)
 
 # absolute or relative path of logo
-logo: /assets/images/logo.png #(required)
+logo: /assets/beagle_color_green-crop.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: http://www.jacopochevallard.org/beagle/ # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "http://www.jacopochevallard.org/beagle"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: jacopo-chevallard/BEAGLE # (required)
 
 # remove this line if don't want to show Github Star Badge
 star-badge: true  #(optional)
