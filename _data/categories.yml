@@ -1,5 +1,5 @@
 # Available colors: blue, red, orange, green, purple
-- name: New
+- name: New Release
   color: blue
 
 - name: Bug
